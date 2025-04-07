@@ -1,8 +1,8 @@
-# 👋 Ciao, sono [Il Tuo Nome]
+# 👋 Ciao, sono [Gianluca Rocci]
 
 🎯 **Professione**: Sviluppatore Software | Direttore Innovazione Tecnologica  
-🏢 **Attuale posizione**: [Nome Azienda]  
-📍 **Località**: [Città, Stato]  
+🏢 **Attuale posizione**: [CISIA Group Srl]  
+📍 **Località**: [Teramo, Italia]  
 
 ---
 
@@ -14,7 +14,7 @@
   - OCR, elaborazione immagini, gestione PDF  
   - Backend con API REST, autenticazione e ruoli utente  
   - UI/UX su web con Bootstrap / WinForms / WPF
-- 🔧 **Integrazione Hardware**: Scanner industriali (Twain, SDK Czur, SDK Fujitsu, SDK Kodak)
+- 🔧 **Integrazione Hardware**: Scanner industriali, 3D (Twain, SDK Czur, SDK Fujitsu, SDK Kodak)
 
 ---
 
@@ -34,7 +34,7 @@
 ### 📫 Contatti
 
 - 🌐 Sito personale: [gianlucarocci.com](https://gianlucarocci.com)
-- 💼 LinkedIn: [linkedin.com/in/tuonome](https://linkedin.com/in/tuonome)
+- 💼 LinkedIn: [linkedin.com/in/tuonome](https://www.linkedin.com/in/gianlucarocci/)
 - 📧 Email: `me@gianlucarocci.com`
 
 ---
