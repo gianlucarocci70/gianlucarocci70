@@ -21,20 +21,20 @@
 ### 📌 Progetti in evidenza
 
 🚀 [**HDM Scan**](https://github.com/gianlucarocci70/HDMScan)  
-> Applicazione PHP con autenticazione ruoli, task tracking, e invio newsletter grafica
+> Applicativo in C#, per la digitalizzazione, classificazione metadati e caricamento su gestionali
 
 📂 [**Parser PDF con riconoscimento barcode**](https://github.com/tuo-username/barcode-pdf)  
 > Estrazione automatica di sezioni PDF basate su barcode 2D (no QRCode), salvataggio dinamico
 
 🧾 [**HDM Pro**](https://github.com/gianlucarocci70/HDMPro)  
-> Estrae solo i file `*_PROVA.pdf` da archivi compressi e li salva in sequenza
+> Applicazione PHP con autenticazione ruoli, task tracking, e invio newsletter grafica
 
 ---
 
 ### 📫 Contatti
 
 - 🌐 Sito personale: [gianlucarocci.com](https://gianlucarocci.com)
-- 💼 LinkedIn: [linkedin.com/in/tuonome](https://www.linkedin.com/in/gianlucarocci/)
+- 💼 LinkedIn: [linkedin.com/in/gianlucarocci](https://www.linkedin.com/in/gianlucarocci/)
 - 📧 Email: `me@gianlucarocci.com`
 
 ---
